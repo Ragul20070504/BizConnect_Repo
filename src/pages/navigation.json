@@ -1,0 +1,13 @@
+{
+  "home": "Go to the homepage at /.",
+  "login": "Login to your account at /login",
+  "register": "Register a new account at /register",
+  "dashboard": "Access your dashboard at /dashboard",
+  "services": "Check our services at /services",
+  "community": "Explore the community at /community",
+  "profile": "View your profile at /profile",
+  "lorem": "Visit the lorem page at /lorem",
+  "document scanner": "Upload or view documents at /doc",
+  "calender": "Check the GST calendar at /calender"
+}
+
