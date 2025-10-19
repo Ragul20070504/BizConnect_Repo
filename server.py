@@ -17,7 +17,7 @@ def translate_text(text, dest_language='ta'):
     except Exception as e:
         return f"Translation Error: {str(e)}"
 
-def read_file_content(file):
+def read_file_content(file):cd
     filename = file.filename.lower()
     
     if filename.endswith('.txt'):
