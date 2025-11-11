@@ -54,5 +54,5 @@ Beyond compliance, it functions as a **smart business secretary**—sending remi
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/business-companion-app.git
-cd business-companion-app
+git clone https://github.com/Ragul20070504/BizConnect_Repo.git
+cd BizConnect_Repo
